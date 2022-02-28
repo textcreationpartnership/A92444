@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scottish Commissioners demand concerning their sixt article.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92444</idno>
+            <idno type="STC">Wing S1001B</idno>
+            <idno type="STC">ESTC R11089</idno>
+            <idno type="EEBO-CITATION">45578431</idno>
+            <idno type="OCLC">ocm 45578431</idno>
+            <idno type="VID">172349</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172349)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2627:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scottish Commissioners demand concerning their sixt article.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Signatures: a-d².</note>
+                  <note>Concerns the Scottish Commissioner's sixth demand for reimbursement of wartime expenses.</note>
+                  <note>Includes replies from the House of Lords.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="demand">
+            <pb n="1" facs="tcp:172349:1" rendition="simple:additions"/>
+            <head>THE SCOTTISH Commiſsioners Demand concerning their ſixt ARTICLE.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Oncerning our Sixt demand, Although it hath often come to paſſe, that theſe who have been joy<g ref="char:EOLhyphen"/>ned by the bonds of Religion, and Na<g ref="char:EOLhyphen"/>ture, have ſuffered themſelves to be divided about the things of this World; And although our Adverſaries, who no leſſe labour the diviſion of the two Kingdomes, then wee doe all ſeek Peace, and follow after it, as our common Happineſſe, doe preſume that this will be the Partition wall, to divide us, and to make us loſe all our labours taken about the former
+<pb n="2" facs="tcp:172349:2"/>Demands, Wherein by the help of God; by his Majeſties Princely goodneſſe, and Iuſtice, and your Lordſhips noble, and equal dealing, Wee have ſo fully accorded, and to keep us from providing for a firme and weell groun<g ref="char:EOLhyphen"/>ded Peace, by the wiſdome, and juſtice of the Parliament of England, which is our greateſt deſire expreſſed in our laſt Demand. We are ſtill Confident, that as wee ſhall concerning this Article repreſent nothing but what is true, Iuſt, and Honourable to both King<g ref="char:EOLhyphen"/>domes; So will your Lordſhips hearken to us, and will not ſuffer your ſelves, by any ſlanders, or ſuggeſtions, to be drawne out of that ſtraight and ſafe way, wherein yee have walked ſince the beginning.</p>
+            <p>IT is now Wee ſuppoſe knowne to all England, eſpecially to both the Honourable Houſes of Parliament, And by the occaſion of this Treatie, more particularly to your Lordſhips, That our diſtreſſes in our Reli<g ref="char:EOLhyphen"/>gion, and Liberties were of late more preſ<g ref="char:EOLhyphen"/>ſing then Wee were able to beare, That our Complaints and Supplications for redreſſe, were anſwered at laſt with the terrours of an Army; That after a Pacification greater Preparations were made for warre, whereby many Acts of Hoſtilitie were done againſt us, both by Sea and Land; The Kingdome
+<pb n="3" facs="tcp:172349:2"/>wanted adminiſtration of Iuſtice, and Wee conſtrained to take armes for our defence; That wee were brought to this extreame, and intollerable neceſſitie, either to maintaine divers Armies upon our borders againſt In<g ref="char:EOLhyphen"/>vaſion from England, or Ireland, ſtill to be deprived of the benefit of all the Courts of Iuſtice, and not onely to maintaine ſo many thouſands as were ſpoiled of their ſhips, and goods, but to want all Commerce by Sea, to the vndoing of Merchants, of Saylors, and many others who lived by Fiſhing, and whoſe callings are vpholden from hand to mouth by Sea trade: Any one of which evils is able in a ſhort time to bring the moſt potent Kingdome to Confuſion, Ruine and Deſola<g ref="char:EOLhyphen"/>tion, how much more all the three at one time combined to bring the Kingdome of Scotland to be no more a Kingdome: Yet all theſe behoved we either to endure, and under no other hope, then of the perfect ſlavery of our ſelves, and our poſterity in our Soules, lives, and Meanes; Or to reſolve to come in<g ref="char:EOLhyphen"/>to England, not to make Invaſion, nor with any purpoſe to fight, except we were forced, God is our Iudge, our actions are our wit<g ref="char:EOLhyphen"/>neſſes, and England doth now acknowledge the truth, againſt all ſuſpitions to the contra<g ref="char:EOLhyphen"/>ry, and againſt the impudent lyes of our Ene<g ref="char:EOLhyphen"/>mies, But for our reliefe, defence, and preſer<g ref="char:EOLhyphen"/>vation
+<pb n="4" facs="tcp:172349:3"/>which wee could find by no other meanes, when we had eſſayed all meanes, and had at large expreſſed our pungent, and preſ<g ref="char:EOLhyphen"/>ſing neceſſities, to the Kingdome, and Par<g ref="char:EOLhyphen"/>liament of England. Since therefore the Warre on our part (which is no other but our comming into England with a guard) is defenſive, and all men doe acknowledge, that in common equity, the defendant ſhould not be ſuffered to periſh in his juſt and nece<g ref="char:EOLhyphen"/>ſſary defence, but that the purſuer, whe<g ref="char:EOLhyphen"/>ther by way of Legall Proceſſe in the time of Peace, or by way of violence, and unjuſt invaſion in the time of warre, ought to beare the charges of the defendent. Wee truſt that your Lordſhips will thinke that it is not a<g ref="char:EOLhyphen"/>gainſt reaſon for us, to demand ſome re<g ref="char:EOLhyphen"/>paration of this kind. And that the Parlia<g ref="char:EOLhyphen"/>ment of England by whoſe Wiſedome and Iuſtice we have expected the redreſſe of our wrongs, will take ſuch courſe, as both may in reaſon give us ſatisfaction and may in the notable demonſtration of their Iuſtice ſerve moſt for their own honour.</p>
+            <p>Our earneſtneſſe in following this our Demand, doth not ſo farre wrong our ſight, and make us ſo undiſcerning, as not to make a difference betweene the Kingdome, and Par<g ref="char:EOLhyphen"/>liament of England, which did neither decern
+<pb n="5" facs="tcp:172349:3"/>nor ſet forward a Warre againſt us, And that Prevalent faction of Prelats and Papiſts who have moved every ſtone againſt us, and uſed all ſorts of meanes not onely their coun<g ref="char:EOLhyphen"/>ſells, Subſidies and forces, but their Kirk Ca<g ref="char:EOLhyphen"/>nons, and prayers for our utter Ruine, which maketh them obnoxious to our juſt accuſa<g ref="char:EOLhyphen"/>tions, and guilty of all the loſſes, and wrongs, which this time paſt wee have ſuſtained: Yet this wee deſire your Lordſhips to conſider, That the Eſtates of the Kingdome of Scot<g ref="char:EOLhyphen"/>land being aſſembled, did endeavour by their Declarations, Informations, &amp; Remonſtran<g ref="char:EOLhyphen"/>ces, and by the proceedings of their Com<g ref="char:EOLhyphen"/>miſſioners, to make knowne unto the Coun<g ref="char:EOLhyphen"/>ſell, Kingdome, and Parliament of England, and to forewarne them of the miſchiefe in<g ref="char:EOLhyphen"/>tended againſt both Kingdomes, in their Re<g ref="char:EOLhyphen"/>ligion, and Liberties, by the Prelates, and Pa<g ref="char:EOLhyphen"/>piſts, to the end, that our Invaſion from Eng<g ref="char:EOLhyphen"/>land might have bin prevented, if by the Pre<g ref="char:EOLhyphen"/>valencie of the faction it had beene poſſible. And therefore wee may now with the grea<g ref="char:EOLhyphen"/>ter reaſon, &amp; confidence preſſe our Demand, That your Lord<hi rend="sup">ps</hi>, the Parliament, the King<g ref="char:EOLhyphen"/>dome, and the King himſelfe may ſee us re<g ref="char:EOLhyphen"/>pared in our loſſes at the coſt of that faction by whoſe meanes we have ſuſtained ſo much dammage, And which, except they repent, will find ſorrow recompenſed for our griefe,
+<pb n="6" facs="tcp:172349:4"/>Torments for our toyle, and an infinite grea<g ref="char:EOLhyphen"/>ter loſſe for the Temporall loſſes, they have brought upon a whole Kingdome, which was dwelling by them in Peace.</p>
+            <p>All the devices and doings of our com<g ref="char:EOLhyphen"/>mon enemies were to beare downe the Truth of Religion, and the juſt liberties of the Sub<g ref="char:EOLhyphen"/>jects in both Kingdomes. They were confi<g ref="char:EOLhyphen"/>dent to bring this about one of two wayes: Either by blocking us up by Sea &amp; Land to conſtraine us to admit their will for a Law both in Kirck, and policy, and thus to make us a Precedent for the like miſery in Eng<g ref="char:EOLhyphen"/>land, or by their Invaſion of our Kingdome to compell us furiouſly, and without order, to break into England, that the two Nations once entered in a bloody Warre, they might fiſh in our trouble Waters, and catch their deſired Prey. But as wee declared before our comming: Wee truſted that God would turne their Wiſedome into fooliſhneſſe, and bring their devices upon their owne Pates, by our Intentions, and Reſolutions to come into England as among our Brethren, in the moſt peaceable way that could ſtand with our ſafety, in reſpect of our common Ene<g ref="char:EOLhyphen"/>mies, to preſent our Petitions for ſetling our peace, by a Parliament in England, wherein the Intentions and Actions, both of our Ad<g ref="char:EOLhyphen"/>verſaries,
+<pb n="7" facs="tcp:172349:4"/>and ours might be brought to light, The Kings Majeſty, and the Kingdome right<g ref="char:EOLhyphen"/>ly informed, The Authors, and Inſtruments of our diviſions, and troubles puniſhed, All the miſchiefes of a Nationall, and doubtfull Warre prevented, and Religion, and Liberty with greater Peace, and Amity then ever be<g ref="char:EOLhyphen"/>fore eſtabliſhed, againſt all the Craft and vi<g ref="char:EOLhyphen"/>olence of our enemies. This was our Decla<g ref="char:EOLhyphen"/>ration before wee ſet our foot into England, from which our deportments ſince have not varied. And it hath bin the Lords wonderfull doing, by the wiſe Counſels, and juſt procee<g ref="char:EOLhyphen"/>dings of the Parliament, to bring it in a great part to paſſe, and to give us lively hopes of a happy Concluſion: And therefore wee will never doubt, but that the Parliament in their Wiſedome and Iuſtice, will provide that a proportionable part of the Coſt, and charges of a worke ſo great and ſo comfortable to both Nations bee borne by the Delinquents there, that with the better Conſcience the good People of England may ſit under their owne Vines, and Figtrees, Refreſhing them<g ref="char:EOLhyphen"/>ſelves, although upon our greater Paines and Hazard, yet not altogether upon our coſt and charges, which wee are not able to beare.</p>
+            <p>The Kingdome of England doth know and confeſſe, that the Innovation of Religion
+<pb n="8" facs="tcp:172349:5"/>and Liberties in Scotland, were not the prin<g ref="char:EOLhyphen"/>cipall deſigne of our common Enemies, but that both in the Intention of the Workers, whole zeale was hotteſt for ſetling their de<g ref="char:EOLhyphen"/>vices at home: And in the Condition of the Worke, making us whom they conceived to be the weaker for oppoſition, to bee nothing elſe but a leading caſe for England. And that although by the power of GOD, which is made perfit in weakneſſe, they have found a<g ref="char:EOLhyphen"/>mongſt us greater reſiſtance, then they did feare, or either they or our ſelves could have apprehended; Yet, as it hath beene the will of God that wee ſhould endure the heate of the day; So in the Evening the pretious wages of the vindication of Religion, Liberties, and Lawes, are to be received by both Kingdoms, and will enrich wee hope to our unſpeakable Ioy, the preſent Age, and the Poſterity with Bleſſings that can not bee valued, and which the good People of England eſteeme more then Treaſures of Gold, and willingly would have purchaſed with many thouſands. Wee doe not plead that Conſcience, &amp; Piety have moved ſome men to ſerve GOD upon their owne coſt, and that Juſtice, and Equity have directed others, where the Harveſt hath been common to conſider the pains of labouring, and the charges of the Sowing, yet this much may wee ſay, that had a forraine Enemy, in<g ref="char:EOLhyphen"/>tending
+<pb n="9" facs="tcp:172349:5"/>to reduce the whole Iland into Po<g ref="char:EOLhyphen"/>pery, made the firſt aſſault vpon our weake<g ref="char:EOLhyphen"/>neſſe, We nothing doubt, but the Kingdome of England, from their deſire to preſerve their Religion, and Liberties, would have found the way to beare with us the expenſe of our reſiſtance, and lawfull defence, how much more being Invaded, although not by Eng<g ref="char:EOLhyphen"/>land, yet from England, by common Ene<g ref="char:EOLhyphen"/>mies, ſeeking the ſame ends, we expect to be helped and relieved.</p>
+            <p>We will never conceive that it is either the will, or the well and honour of England, that wee ſhould goe from ſo bleſſed a worke after ſo many grievous ſufferings, bearing on our backes the inſupportable burdens of worldly neceſſities, and diſtreſſes, returne to our coun<g ref="char:EOLhyphen"/>trey empty, and exhauſted, in which the peo<g ref="char:EOLhyphen"/>ple of all Rankes, Sexes, and conditions have ſpent themſelves, The poſſeſſions of every man, who devoted himſelfe heartily to this cauſe, are burdened, not onely with his owne Perſonall, and particular expenſe, but with the publicke, and common charges; Of which if there be no reliefe, neither can our Kingdome have Peace at home, nor any more credit for Commerce abroad: Nor will it be poſſible for us, eyther to aide, and aſſiſt our friends, or to reſiſt, and oppoſe the
+<pb n="10" facs="tcp:172349:6"/>reſtleſſe, and working wickedneſſe of our Enemies: The beſt ſort will loſe much of the ſweetneſſe of the enjoying of their Reli<g ref="char:EOLhyphen"/>gion, and Liberties, and others will run ſuch wayes, and undirect courſes, as their deſpe<g ref="char:EOLhyphen"/>rate neceſſities will drive them into. Wee ſhall be but a burthen to our ſelves, a vexa<g ref="char:EOLhyphen"/>tion unto others, of whoſe ſtrength we deſire to be a conſiderable part, and a fit ſubject for our enemies to worke vpon for obtaining, their now diſappointed, but never dying deſires.</p>
+            <p>We will not alledge the example of other Kingdomes, where the loſſes of neceſſary and juſt defence had beene repaired by the other party, Nor will wee remember what helpe we have made according to our abilities, to other reformed Kirks, And what the King<g ref="char:EOLhyphen"/>dome of England of old, and of late hath done to Germany, France, and Holland, Nor doe we uſe ſo many words, that England may be burthened, and we eaſed, or that this ſhould be a matter of our Covetouſneſſe, and not of their Iuſtice, and kindneſſe; Iuſtice, in reſpect of our adverſaries) who are the cauſes of the great miſerie and neceſſity, to which we have beene brought: kindneſſe, in the ſupply of our wants, who have beene tender of the welfare of England as of our owne, that by this equa<g ref="char:EOLhyphen"/>lity and mutuall reſpect, both Nations may
+<pb n="11" facs="tcp:172349:6"/>be ſupported in ſuch ſtrength, and ſufficien<g ref="char:EOLhyphen"/>cie, that wee may be the more ſerviceable to his Majeſtie, and abound in every good work, both towards one another, and for the com<g ref="char:EOLhyphen"/>fort and reliefe of the reformed Kirks, be<g ref="char:EOLhyphen"/>yond the Seas, that we may all bleſſe God, and that the bleſſing of God may be vpon us all.</p>
+            <div type="demand">
+               <head>The Engliſh Peeres demand concer<g ref="char:EOLhyphen"/>ning the Preceeding Article.</head>
+               <p>Whether this be a poſitive demand, or onely an Intimation of the charge, thereby to induce the Kingdome of England, to take your diſtreſſed eſtate into conſiderati<g ref="char:EOLhyphen"/>on, and to afford you ſome friendly aſſi<g ref="char:EOLhyphen"/>ſtance.</p>
+            </div>
+            <div type="answer">
+               <head>The Scottiſh Commiſſioners anſwer to this Demand.</head>
+               <p>We would be no leſſe willing to beare our Ioſſes if wee had ability, then we have beene ready to undergoe the hazard; But becauſe the burthen of the whole doth farre exceed our ſtrength, We have (as is more fully con<g ref="char:EOLhyphen"/>ceived in our Papers) repreſented to your Lordſhips, our charges, and loſſes, not inten<g ref="char:EOLhyphen"/>ding to demand a total Reparation, but of
+<pb n="12" facs="tcp:172349:7"/>ſuch a proportionable part, as that wee may in ſome meaſure beare the remanent, which we conceive, your Lordſhips (having conſi<g ref="char:EOLhyphen"/>dered our reaſons) will judge to be a matter, not of our Covetouſneſſe, but of the ſaid Iuſtice, and kindneſſe of the Kingdome of England.</p>
+            </div>
+            <div type="proposition">
+               <head>Propoſition of the Peeres to proceed to the o<g ref="char:EOLhyphen"/>ther Demands during the debate of the Scottiſh loſſes.</head>
+               <p>That in the Interim whilſt the houſes of Parliament take into conſideration, your de<g ref="char:EOLhyphen"/>mand of loſſes, and dammages, you proceed to ſettle the other Articles of the Peace, and Intercourſe betwixt the two Kingdomes.</p>
+            </div>
+            <div type="answer">
+               <head>Anſwer to the Peeres Demand.</head>
+               <p>Wee have repreſented our loſſes, and there<g ref="char:EOLhyphen"/>by diſtreſſed Condition ingenuouſly, and in the ſingleneſſe of our hearts, with very great moderation, paſſing over many things, which to us are great Burthens, That there might be no difficulty, nor cauſe of delay on our part, hoping that the Honourable hou<g ref="char:EOLhyphen"/>ſes of Parliament, would thereby bee moved
+<pb n="13" facs="tcp:172349:7"/>at their firſt Conveniencie to take the matter to their conſideration.</p>
+               <p>We doe not demand a totall Reparation, Nor doe wee ſpeake of the payment, till wee conſult about the ſetling of a ſolid peace, at which time the wayes of lifting, and paying the money, may bee conſidered; Wee doe onely deſire to know what proportion may be expected. That this being once determi<g ref="char:EOLhyphen"/>ned, and all impediments, ariſing from our by-paſt troubles, removed, Wee may with the greater confidence, and more hearty con<g ref="char:EOLhyphen"/>ſent on both ſides proceed to the eſtabliſhing of a firme and durable peace for time to come.</p>
+               <p>It is not unknowne to your Lordſhips, what deſperate deſires, and miſerable hopes our Adverſaries have conceived of a breach upon this Article; And we doe foreſee, what ſnares to us, &amp; difficulties to your Lordſhips may ariſe upon the poſtponing and laying aſide of this Article to the laſt place.</p>
+               <p>And therefore that our Adverſaries may be out of hope, and wee out of feare, and that the ſetling of Peace may bee the more eaſie: Wee are the more earneſt, that, as the former Articles have bin, ſo this may be upon grea<g ref="char:EOLhyphen"/>ter reaſons conſidered in its owne place, and order.</p>
+               <p>Your Lordſhips upon the occaſion of
+<pb n="14" facs="tcp:172349:8"/>ſome motions made heretofore of the tranſ<g ref="char:EOLhyphen"/>poſing of our Demands, doe know, that not onely the ſubſtance, but the order of the pro<g ref="char:EOLhyphen"/>pounding of them, is contained in our Inſtru<g ref="char:EOLhyphen"/>ctions. And as we can alter nothing without warrand, the craving whereof will take more time then the Houſes of Parliament will be<g ref="char:EOLhyphen"/>ſtow upon the conſideration of this Article, So are wee acquainted with the reaſons yet ſtanding in force, which moved the ordering of this Demand. And therefore let us ſtill be earneſt with your Lordſhips, that there be no halting here, where the Adverſaries did moſt, and we did leaſt of all, by reaſon of the Iuſtice, and kindneſſe of the houſes of Parlia<g ref="char:EOLhyphen"/>ment expect it.</p>
+            </div>
+            <div type="answer">
+               <head>Anſwer of the Parliament to the preceeding Demand. Reſolved vpon the Queſtion.</head>
+               <p>That this Houſe thinke fit, that a friendly aſſiſtance and reliefe ſhall be given towards ſupply of the loſſes, and neceſſities of the Scots, And that in due time this Houſe will take into conſideration the meaſure and manner of it.</p>
+            </div>
+            <div type="answer">
+               <head>The Scottiſh Commiſſioners Anſwer.</head>
+               <p>As wee doe with all thankfulneſſe receive the friendly, and kind reoſolution of the Par<g ref="char:EOLhyphen"/>liament concerning our ſixt demand, And doe therein acknowledge your Lordſhips
+<pb n="15" facs="tcp:172349:8"/>noble dealing, for which we may aſſure that the whole Kingdome of Scotland will at all occaſions expreſſe themſelves in all reſpect, and kindneſſe, So doe we entreat your Lo<hi rend="sup">ps</hi>. to repreſent to the Parliament our earneſt deſire, that they may be pleaſed, how ſoone their conveniencie may ſerve, to conſider of the proportion, wiſhing ſtill, that as we ex<g ref="char:EOLhyphen"/>pect from our friends the Teſtimonies of their kindneſſe and friendly aſſiſtance, So the juſtice of the Parliament may be declared, in making the burden more ſenſible to the Prelats, and Papiſts (our enemies, and Au<g ref="char:EOLhyphen"/>thors of all our evils) then to others, who ne<g ref="char:EOLhyphen"/>ver have wronged us; Which will not onely give unto us, and the whole Kingdome of Scotland, the greater ſatisfaction, But will alſo (as we doe conceive) conduce much to the honour of the Kings Majeſty and Parlia<g ref="char:EOLhyphen"/>ment. Wee doe alſo expect that your Lord<g ref="char:EOLhyphen"/>ſhips will bee pleaſed to report unto us the Anſwer of the Parliament, that wee may in this, as in our former Articles, give accompt to thoſe who ſent us.</p>
+            </div>
+            <div type="demand">
+               <head>The Peeres Demand vpon the above written Anſwere.</head>
+               <p>We deſire to underſtand, ſince, (as we con<g ref="char:EOLhyphen"/>ceive) the particulars are like to require much time, whether wee may not from you let the Parliament know, That (whileſt they are
+<pb n="16" facs="tcp:172349:9" rendition="simple:additions"/>debating of the Proportion, and the wayes how their kind aſſiſtance may be raiſed) you will proceed to the agreeing of the Articles of a firme and durable Peace, that thereby both Time may be ſaved, and both ſides pro<g ref="char:EOLhyphen"/>ceed mutually with the greater cheerfulneſſe and alacrity.</p>
+            </div>
+            <div type="answer">
+               <head>The Scottiſh Commiſſioners Answere to the preceeding Demand.</head>
+               <p>As we deſire a firme Peace, ſo it is our de<g ref="char:EOLhyphen"/>ſire that this peace may be with all mutuall alacrity ſpeedily concluded. Therefore let us entreat your Lordſhips, to ſhew the Parlia<g ref="char:EOLhyphen"/>ment from us, that how ſoone they ſhall bee pleaſed to make the proportion knowne to us, that wee may ſatisfie the expectation of thoſe, who have entruſted us, (which we con<g ref="char:EOLhyphen"/>ceive may be done in a ſhort time, ſince they are already acquainted with all the particu<g ref="char:EOLhyphen"/>lars of our Demand,) we ſhall ſtay no longer upon the manner and wayes of raiſing the aſ<g ref="char:EOLhyphen"/>ſiſtance, which may require a longer time: And yet we truſt will be with ſuch conveni<g ref="char:EOLhyphen"/>encie determined, as may ſerve for ourtimous reliefe, But remitting the manner and wayes to the opportunities of the Parliament, ſhall moſt willingly proceed to the Conſiderati<g ref="char:EOLhyphen"/>on of the following Articles, Eſpecially to that which we moſt of all deſire, a firme and bleſſed peace.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
